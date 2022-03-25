@@ -12,6 +12,6 @@ public class App
     }
     
     public void addData() {
-    	System.out.println("Data added");
+    	System.out.println("Data added successfully");
     }
 }
