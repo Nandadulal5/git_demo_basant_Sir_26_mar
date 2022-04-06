@@ -12,6 +12,6 @@ public class App
     }
     
     public void addData() {
-    	System.out.println("Data added successfully again ok");
+    	System.out.println("Data added successfully again ok from remote");
     }
 }
