@@ -14,4 +14,8 @@ public class App
     public void addData() {
     	System.out.println("Data added successfully again ok branch 1");
     }
+    
+    public void addDataAgain() {
+    	System.out.println("Data added successfully again ok branch 1");
+    }
 }
